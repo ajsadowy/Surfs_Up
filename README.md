@@ -1,8 +1,21 @@
 # Surfs_Up   
 ## Layout   
->.gitnore   
+
+>Data_Figures (folder)   
+>>December.png   
+>
+>>June.png   
+>
+>>March.png   
+>
+>>September.png   
+
+>.gitignore   
+
 >README.md   
+
 >SurfsUp_Challenge.ipynb   
+
 >hawaii.sqlite   
 
 ## Overview & Purpose   
